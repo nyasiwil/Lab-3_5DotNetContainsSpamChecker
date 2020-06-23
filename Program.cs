@@ -9,7 +9,7 @@ namespace Lab_3_5DotNetContainsSpamChecker
             //Updated and works but needs refactoring!
             // - More words in BlackList
             // - Resolve Uppercase/Lowercase issue with words
-            // - Use external db or flatefile that is easy to update
+            // - Use external db or flatfile that is easy to update
             //      without having to update the code.
             // Added by th 0623200
             Console.WriteLine("Hello World Lab 3_5DotNetContainsSpamChecker!");
